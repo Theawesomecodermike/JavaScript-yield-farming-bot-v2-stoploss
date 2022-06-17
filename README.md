@@ -18,4 +18,24 @@ Here's a straightforward YouTube video on how to configure it and run it properl
 <h1>Here is the bot caught in action figuring the stop loss function.</h1>
 <img src="https://github.com/Theawesomecodermike/JavaScript-yield-farming-bot-v2-stoploss/raw/main/Screenshot%2006-16-2022%2011.58.14.png" >
 
+
+Let’s get started.
+
+Part 1. Main software installations.
+
+Extract the Yield-farming-bot-V2-with-stoploss.zip anywhere you like that easy for you to find.
+
+Part 2. Editing the settings.
+
+Open the bots main folder and find "config.js" file and open it with a text-editor:
+
+1.Set your public address and private key or your wallet seed if you have a wallet that does not give you the private key
+
+2.Set the Network  1 = ETH , 2 = BNB , 3 = Polygon 
+
+3. Save config.js
+
+Part 3. Running the bot
+
+1. right click on index.html and put "open with" and choose a one of your webbrowsers Note: I did the test with firefox, but any webbrowser should work
 # JavaScript-yield-farming-bot-v2-stoploss
