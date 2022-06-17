@@ -5,17 +5,17 @@ The default configuration turns a massive profit in this volatile market. This b
 
 Here's a straightforward YouTube video on how to configure it and run it properly.
 
-
-
-
-<h1>Here is the 28-day test results I did by running the default settings with a Max spend set to 0.5.</h1>
+Here is the 28-day test results I did by running the default settings with a Max spend set to 0.5.
+  
 <img src="https://github.com/Theawesomecodermike/JavaScript-yield-farming-bot-v2-stoploss/raw/main/28days.png" >
 
-<h1>I won 4th place with this script</h1>
+I won 4th place with this script
+
 <img src="https://github.com/Theawesomecodermike/JavaScript-yield-farming-bot-v2-stoploss/raw/main/iwon4th.png" >
 
 
-<h1>Here is the bot caught in action figuring the stop loss function.</h1>
+Here is the bot caught in action figuring the stop loss function.
+
 <img src="https://github.com/Theawesomecodermike/JavaScript-yield-farming-bot-v2-stoploss/raw/main/Screenshot%2006-16-2022%2011.58.14.png" >
 
 
@@ -28,6 +28,8 @@ Extract the Yield-farming-bot-V2-with-stoploss.zip anywhere you like that easy f
 Part 2. Editing the settings.
 
 Open the bots main folder and find "config.js" file and open it with a text-editor:
+
+<img src="https://github.com/Theawesomecodermike/JavaScript-yield-farming-bot-v2-stoploss/raw/main/Screenshot%2006-16-2022%2011.59.12.png" >
 
 1.Set your public address and private key or your wallet seed if you have a wallet that does not give you the private key
 
