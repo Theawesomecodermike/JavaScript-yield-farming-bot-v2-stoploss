@@ -9,7 +9,7 @@ Here's a straightforward YouTube video on how to configure it and run it properl
 
 
 <h1>Here is the 28-day test results I did by running the default settings with a Max spend set to 0.5.</h1>
-
+<img src="https://github.com/Theawesomecodermike/JavaScript-yield-farming-bot-v2-stoploss/raw/main/29days.png" >
 
 <h1>I won 4th place with this script</h1>
 <img src="https://github.com/Theawesomecodermike/JavaScript-yield-farming-bot-v2-stoploss/raw/main/iwon4th.png" >
