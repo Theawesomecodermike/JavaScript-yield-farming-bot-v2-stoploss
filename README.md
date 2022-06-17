@@ -12,6 +12,6 @@ Here is the 28-day test results I did by running the default settings with a Max
 
 
 Here is the bot caught in action figuring the stop loss function.
-
+<img src="https://github.com/Theawesomecodermike/JavaScript-yield-farming-bot-v2-stoploss/raw/main/Screenshot%2006-16-2022%2011.58.14.png" >
 
 # JavaScript-yield-farming-bot-v2-stoploss
