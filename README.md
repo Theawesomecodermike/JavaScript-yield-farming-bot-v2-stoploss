@@ -38,4 +38,7 @@ Open the bots main folder and find "config.js" file and open it with a text-edit
 Part 3. Running the bot
 
 1. right click on index.html and put "open with" and choose a one of your webbrowsers Note: I did the test with firefox, but any webbrowser should work
+
+<img src="https://github.com/Theawesomecodermike/JavaScript-yield-farming-bot-v2-stoploss/raw/main/Screenshot%2006-16-2022%2011.59.44.png" >
+
 # JavaScript-yield-farming-bot-v2-stoploss
